@@ -1,8 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Manish kumar;Full+Stack+Engineer;LLM+Systems+Builder;Agentic+AI+Developer;FastAPI+•+Next.js+•+Django;Building+Scalable+AI+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Manish+Kumar;Full+Stack+Engineer;LLM+Systems+Builder;Agentic+AI+Developer;FastAPI+•+Next.js+•+Django;Building+Scalable+AI+Infrastructure" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">AI Systems • Backend Architecture • Frontend Engineering</h3>
+<p align="center">
+  <b>AI Systems • Backend Architecture • Frontend Engineering</b>
+</p>
+
 
 
 
