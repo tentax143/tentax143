@@ -1,3 +1,13 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+@tentax143;Full+Stack+Engineer;LLM+Systems+Builder;Agentic+AI+Developer;FastAPI+•+Next.js+•+Django;Building+Scalable+AI+Infrastructure" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">AI Systems • Backend Architecture • Frontend Engineering</h3>
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm @tentax143</h1>
 <h3 align="center">Full Stack Developer • ML Enthusiast • Anime Enjoyer</h3>
 
