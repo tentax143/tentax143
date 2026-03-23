@@ -84,7 +84,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tentax143&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tentax143&show_icons=true&theme=tokyonight&commits_year=2026"/>
   <img src="https://streak-stats.demolab.com?user=tentax143&theme=tokyonight"/>
 </p>
 
